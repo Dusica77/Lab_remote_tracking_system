@@ -23,20 +23,14 @@ A comprehensive web-based solution for tracking laboratory access and equipment 
 
 lab-remote-tracking-system/
 ├── backend/
-│ ├── app.py
-│ └── requirements.txt
+│   ├── app.py
+│   └── requirements.txt
 ├── frontend/
-│ ├── public/
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── Dashboard.js
-│ │ │ ├── QRScanner.js
-│ │ │ └── Records.js
-│ │ ├── App.js
-│ │ └── App.css
-│ └── package.json
+│   ├── public/
+│   ├── src/
+│   └── package.json
+├── .gitignore
 └── README.md
-
 
 
 
