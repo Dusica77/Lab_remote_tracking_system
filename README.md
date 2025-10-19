@@ -35,17 +35,26 @@ lab-remote-tracking-system/
 
 
 API Endpoints
+
 POST /api/register - Register new person
+
 POST /api/scan - Process QR code scans
+
 GET /api/records - Get all access records
+
 GET /api/current_lab_status - Get current lab occupancy
+
 GET /api/person/{id} - Get person details by ID
 
 
 Usage
+
 Register Users: Go to Dashboard tab and register lab personnel
+
 Generate QR Codes: System automatically creates scannable QR codes
+
 Track Access: Use QR Scanner tab to scan codes for entry/exit
+
 View Records: Check Records tab for complete access history
 
 
