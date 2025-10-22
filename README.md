@@ -66,12 +66,15 @@ cd backend
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
+cd backend
+pip install pandas openpyxl flask-cors
 python app.py 
 
 
 (frontend)
 cd frontend
 npm install
+npm install jsqr qrcode
 npm start
 
 
