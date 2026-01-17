@@ -22,14 +22,23 @@ A comprehensive web-based solution for tracking laboratory access and equipment 
 ## Project Structure
 
 lab-remote-tracking-system/
+
 ├── backend/
+
 │   ├── app.py
+
 │   └── requirements.txt
+
 ├── frontend/
+
 │   ├── public/
+
 │   ├── src/
+
 │   └── package.json
+
 ├── .gitignore
+
 └── README.md
 
 
